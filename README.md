@@ -34,7 +34,7 @@ Follow the steps below to get this app running on your local machine.
    ```
 2. Navigate to the project directory:
    ```bash
-   cd weather1
+   cd projectDirectoryName
    ```
 3. Install the dependencies:
    ```bash
