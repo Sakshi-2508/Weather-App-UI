@@ -4,11 +4,9 @@ A simple and beautiful weather app UI built with Flutter. This UI app provides r
 
 ## Screenshots
 Include screenshots of your app here. You can add images by using:
-```markdown
 ![Weather Screen](https://raw.githubusercontent.com/Sakshi-2508/Weather-App-UI/refs/heads/master/screenshot/1.png)
 ![Hourly Weather Screen](https://raw.githubusercontent.com/Sakshi-2508/Weather-App-UI/refs/heads/master/screenshot/2.png)
 ![7-Day Weather Screen](https://raw.githubusercontent.com/Sakshi-2508/Weather-App-UI/refs/heads/master/screenshot/3.png)
-```
 
 ## Features
 - **Current Weather**: Displays the current weather conditions including temperature, humidity, wind speed, and weather description.
