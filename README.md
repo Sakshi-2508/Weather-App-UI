@@ -5,7 +5,9 @@ A simple and beautiful weather app UI built with Flutter. This UI app provides r
 ## Screenshots
 Include screenshots of your app here. You can add images by using:
 ```markdown
-![Screenshot](url-to-image)
+![Weather Screen](https://raw.githubusercontent.com/Sakshi-2508/Weather-App-UI/refs/heads/master/screenshot/1.png)
+![Hourly Weather Screen](https://raw.githubusercontent.com/Sakshi-2508/Weather-App-UI/refs/heads/master/screenshot/2.png)
+![7-Day Weather Screen](https://raw.githubusercontent.com/Sakshi-2508/Weather-App-UI/refs/heads/master/screenshot/3.png)
 ```
 
 ## Features
@@ -28,7 +30,7 @@ Follow the steps below to get this app running on your local machine.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather1.git
+   git clone https://github.com/Sakshi-2508/Weather-App-UI.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -43,16 +45,8 @@ Follow the steps below to get this app running on your local machine.
    flutter run
    ```
 
-### API Setup
-This app uses a weather API to fetch data. To set it up:
-1. Register and obtain an API key from a weather service provider (e.g., [OpenWeather](https://openweathermap.org/)).
-2. Replace the placeholder API key in the app with your actual key in the appropriate file (usually a `.env` or config file).
-
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Replace `"https://github.com/your-username/weather1.git"` with your actual GitHub repository link and add any screenshots or images you'd like to showcase your app.
